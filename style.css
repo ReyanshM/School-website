@@ -1,0 +1,44 @@
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#School_name {
+    font-size: 50px;
+}
+
+.achievements i {
+    float: right;
+}
+
+.achievements {
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+/* .t {
+    border: 1px solid;
+} */
+
+
+.Alumni-img {
+    height: 150px;
+}
+
+.modal {
+    text-align: center;
+}
+
+.campus_life{
+    box-shadow:0px 0px 5px black;
+    margin:20px;
+    overflow:auto;
+    padding:10px 0px;
+}
+.overflow{
+    overflow:auto;
+}
